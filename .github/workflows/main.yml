@@ -1,7 +1,8 @@
 name: CI
-
-on: [push, pull_request]
-
+on:
+  workflow_dispatch: # <-- 加上这一行，允许手动触发
+  push:
+    branches: [ main ]
 jobs:
   build:
     name: Build on ${{ matrix.os }}
