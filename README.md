@@ -16,7 +16,7 @@ A cross-platform GUI and CLI for automatically saving SHSH blobs. [Download](htt
 - Store an unlimited number of devices
 - Save blobs for beta versions without specifying a URL and in the background
 - Automate all features with the CLI
-- Save blobs to TSS Saver and SHSH Host as well with one click
+- Save blobs to TSS Saver and SHSH Host as well with one click.
 
 ## Nightly Builds
 
